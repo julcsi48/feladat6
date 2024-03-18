@@ -90,3 +90,26 @@ span
     user-select: none;
     touch-action: manipulation;
 }
+footer{
+    text-align: center;
+    font-size: 30px;
+    margin: 15px;
+}
+#csokifa{
+    max-height: 200px;
+    max-width: 200px;
+    margin: 0px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    float: left;
+}
+h1{
+    font-size: 180%;
+    text-align: right;
+    text-transform: uppercase;
+    border-bottom: 2px dotted rgb(59, 36, 13);
+}
+#ez{
+    text-align: justify;
+    font-style: italic;
+}
